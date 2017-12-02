@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KLRahul</string>
+    <string-array name="blood_array">
+        <item>english</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>Latin</item>
+    </string-array>
+</resources>
